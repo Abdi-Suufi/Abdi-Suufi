@@ -1,6 +1,5 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=28&duration=2500&pause=1000&color=00FF1B&background=0F25FF00&center=true&random=false&width=435&lines=Abdi+Rahman+Suufi+%F0%9F%98%8E;Software+Engineering+Graduate)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=28&duration=2500&pause=1000&color=00FF1B&background=0F25FF00&center=true&random=false&width=435&lines=Abdi+Rahman+Suufi+%F0%9F%98%8E;Software+Engineering+Graduate)](https://git.io/typing-svg)</div>
 ###
 
 <h2 align="left">Hi 👋! My name is Abdi Rahman Suufi and I'm a Software Engineering Graduate, from the UK.</h2>
