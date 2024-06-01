@@ -46,9 +46,15 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="web logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://abdi-rahman-suufi.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=firefox" height="35" alt="Portfolio website logo"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdi-rahman-suufi-9183a4216" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Placeholder&logo=LinkedIn&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://gitlab.uwe.ac.uk/a2-suufi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Placeholder&logo=gitlab&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+  </a>
 </div>
 
 ###
