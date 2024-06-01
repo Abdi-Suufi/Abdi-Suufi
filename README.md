@@ -47,7 +47,7 @@
 
 <div align="left" style="margin: 2px;">
   <a href="https://abdi-rahman-suufi.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=briefcase" height="35" alt="Portfolio website logo"/>
+    <img src="https://img.shields.io/static/Portfolio-green?style=for-the-badge&logo=briefcase" height="35" alt="Portfolio website logo"/>
   </a>
   <a href="https://www.linkedin.com/in/abdi-rahman-suufi-9183a4216" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
