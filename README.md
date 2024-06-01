@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=28&duration=2500&pause=1000&color=00FF1B&background=0F25FF00&random=false&width=535&lines=Abdi+Rahman+Suufi+%F0%9F%98%8E;Software+Engineering+Graduate" alt="Typing SVG" /></a></div>
 <h1></h1>
 
-<h3 align="left">Hi 👋! My name is Abdi Rahman Suufi. I'm passionate about web development and love using Visual Studio Code as my go-to IDE. Whether I'm diving into the latest front-end frameworks or perfecting my back-end logic, I enjoy every aspect of creating seamless and engaging web experiences.</h3>
+<h3 align="left">I'm passionate about web development and love using Visual Studio Code as my go-to IDE. Whether I'm diving into the latest front-end frameworks or perfecting my back-end logic, I enjoy every aspect of creating seamless and engaging web experiences.</h3>
 
 ###
 
