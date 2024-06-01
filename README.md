@@ -1,13 +1,12 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=28&duration=2500&pause=1000&color=00FF1B&background=0F25FF00&random=false&width=535&lines=Abdi+Rahman+Suufi+%F0%9F%98%8E;Software+Engineering+Graduate" alt="Typing SVG" /></a></div>
+<h1></h1>
+
+<h3 align="left">Hi 👋! My name is Abdi Rahman Suufi. I'm passionate about web development and love using Visual Studio Code as my go-to IDE. Whether I'm diving into the latest front-end frameworks or perfecting my back-end logic, I enjoy every aspect of creating seamless and engaging web experiences.</h3>
 
 ###
 
-<h2 align="left">Hi 👋! My name is Abdi Rahman Suufi and I'm a Software Engineering Graduate, from the UK.</h2>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdi-Suufi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdi-Suufi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -16,7 +15,7 @@
 
 <img align="right" height="150" src="dist/Coding.gif"  />
 
-###
+### <h1 align='center'>Technology Learnt</h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -48,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
+### <h1>
 
 <div align="left" style="margin: 2px;">
   <a href="https://abdi-rahman-suufi.site/" target="_blank">
@@ -62,9 +61,7 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
+### <h1>
 
 <picture>
   <source
