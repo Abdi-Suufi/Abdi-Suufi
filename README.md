@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
   </a>
   <a href="https://gitlab.uwe.ac.uk/a2-suufi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gitlab&logo=gitlab&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=Gitlab&logo=gitlab&label=&color=Black&logoColor=Orange&labelColor=&style=for-the-badge" height="35"/>
   </a>
 </div>
 
