@@ -1,11 +1,8 @@
 <div align="center">
   <img src="https://t.bkit.co/w_665ccbf729bf2.gif" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=28&duration=2500&pause=1000&color=00FF1B&background=0F25FF00&random=false&width=535&lines=Abdi+Rahman+Suufi+%F0%9F%98%8E;Software+Engineering+Graduate" alt="Typing SVG" /></a></div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=28&duration=2500&pause=1000&color=00FF1B&background=0F25FF00&random=false&width=535&lines=Aybdigh+%F0%9F%98%8E;Software+Engineering+Graduate" alt="Typing SVG" /></a></div>
 <h1></h1>
 
-<h3 align="left">I like web development and usually use VS Code. Whether it’s front-end stuff or back-end tweaks, I enjoy making things work well.</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdi-Suufi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
